@@ -16,7 +16,7 @@ from labels_maps import (
 # --------------------------
 # Config
 # --------------------------
-FRAME_STRIDE_SEC = 0.25         # sample one frame every 0.5s
+FRAME_STRIDE_SEC = 0.25         # sample one frame every 0.25s
 AUDIO_CHUNK_SEC  = 0.25         # classify audio every 5s
 W_VIDEO, W_AUDIO, W_TEXT = 0.40, 0.40, 0.20
 ASR_MODEL_SIZE = "small"       # "tiny"|"base"|"small"|"medium"|"large-v3"
@@ -136,7 +136,7 @@ def evaluate_dir(dir_path: str, pattern_suffix=".mp4"):
             print(f"[Eval] Skip (bad name): {os.path.basename(path)}")
             continue
 
-        # If you ONLY want full AV speech, uncomment:
+        # If we ONLY want full AV speech, then uncomment:
         # if meta["modality"] != "01" or meta["vocal"] != "01":
         #     continue
 
@@ -247,7 +247,7 @@ def evaluate_dir(dir_path: str, pattern_suffix=".mp4"):
 # --------------------------
 def analyze_video_emotions(video_path):
     clip = VideoFileClip(video_path)
-    detector = FER(mtcnn=False)  # MTCNN face detector; falls back to Haar if needed
+    detector = FER(mtcnn=False)  # MTCNN face detector; 
 
     duration = clip.duration
     fps = clip.fps or 25
