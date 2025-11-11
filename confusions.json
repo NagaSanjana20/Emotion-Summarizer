@@ -1,0 +1,268 @@
+{
+  "video": {
+    "anger": {
+      "anger": 6,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 1,
+      "surprise": 0,
+      "neutral": 1
+    },
+    "disgust": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 0
+    },
+    "fear": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 6,
+      "surprise": 0,
+      "neutral": 2
+    },
+    "joy": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 8,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 0
+    },
+    "sadness": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 8,
+      "surprise": 0,
+      "neutral": 0
+    },
+    "surprise": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 0
+    },
+    "neutral": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 3,
+      "surprise": 0,
+      "neutral": 9
+    }
+  },
+  "audio": {
+    "anger": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 1,
+      "neutral": 7
+    },
+    "disgust": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 0
+    },
+    "fear": {
+      "anger": 0,
+      "disgust": 1,
+      "fear": 0,
+      "joy": 1,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 6
+    },
+    "joy": {
+      "anger": 0,
+      "disgust": 1,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 1,
+      "neutral": 6
+    },
+    "sadness": {
+      "anger": 1,
+      "disgust": 1,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 1,
+      "surprise": 0,
+      "neutral": 5
+    },
+    "surprise": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 0
+    },
+    "neutral": {
+      "anger": 1,
+      "disgust": 1,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 1,
+      "neutral": 9
+    }
+  },
+  "text": {
+    "anger": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 8
+    },
+    "disgust": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 0
+    },
+    "fear": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 8
+    },
+    "joy": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 8
+    },
+    "sadness": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 8
+    },
+    "surprise": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 0
+    },
+    "neutral": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 12
+    }
+  },
+  "fused": {
+    "anger": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 8
+    },
+    "disgust": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 0
+    },
+    "fear": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 8
+    },
+    "joy": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 8
+    },
+    "sadness": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 8
+    },
+    "surprise": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 0,
+      "neutral": 0
+    },
+    "neutral": {
+      "anger": 0,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 0,
+      "sadness": 0,
+      "surprise": 1,
+      "neutral": 11
+    }
+  },
+  "accuracy": {
+    "video": 0.7045454545454546,
+    "audio": 0.22727272727272727,
+    "text": 0.2727272727272727,
+    "fused": 0.25
+  }
+}
